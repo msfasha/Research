@@ -1,4 +1,5 @@
 **/beta/
+nuke_git.sh
 desktop.ini
 
 # Ignore all files starting with 'skip_'
